@@ -8,10 +8,6 @@ print(y1[:5])
 plt.scatter(x1[:, 0],y1) 
 x1[:, 1]=x1[:, 0]**2 
 x1[:, 2]=x1[:, 0]**3 
-# print(x1.head()) 
-# print(y1.head()) 
-# x1=x1.to_numpy() 
-# y1=y1.to_numpy().T[0] 
 print(x1.shape) 
 print(y1.shape)
 
