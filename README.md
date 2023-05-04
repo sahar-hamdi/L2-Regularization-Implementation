@@ -11,4 +11,4 @@ x1[:, 2]=x1[:, 0]**3
 print(x1.shape) 
 print(y1.shape)
 
-implement L2-Regularization with Gradinet Descent on this data.
+implement L2-Regularization with Gradinet Descent on this data using python.
